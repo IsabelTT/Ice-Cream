@@ -13,6 +13,6 @@ Le agregue media queries al menu de navegación con la condición de max-width:7
 Le agregue al párrafo de la sección bienvenida, letra cursiva con estilo font-style: italic y en la sección nosotros, el estilo hover para que cuando el mouse pase por encima del texto este se torne con un color azul, ligeramente llamativo.
 En la seccion nosotros aplique display: flex, flex-direction: row, flex-wrap:wrap, para que los elementos de esa seccion se sitúen en fila y se desplazen hacia abajo si la pantalla disminuye en tamaño.
 
-[Captura-de-pantalla-11234.png](https://postimg.cc/3kjD7hr9)
+[![Captura-de-pantalla-11234.png](https://i.postimg.cc/1320GRkx/Captura-de-pantalla-11234.png)](https://postimg.cc/3kjD7hr9)
 
 *Aquí se puede ver mi proyecto:* https://late-cannon.surge.sh/ 
